@@ -1,0 +1,29 @@
+body{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(245, 245, 20);
+}
+h1{
+    font-size: 100px;
+}
+.header{
+font-family: cursive;
+text-align: center;
+color: aliceblue;
+}
+.DINO{
+    border-radius: 75px;
+}
+.minnion{
+    border-radius: 75px;
+}
+.hh{
+   text-align: center; 
+}
+.m1{
+    border-radius: 75px;
+}
+.m2{
+    border-radius: 75px;
+}
